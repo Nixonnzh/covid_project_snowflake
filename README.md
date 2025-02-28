@@ -1,4 +1,4 @@
-# Covid-19 Global Impact Analysis using Power BI & SQL
+# Covid-19 Global Impact Analysis
 
 ## Project Overview
 This project analyzes the global impact of Covid-19 from January 2020 to February 2024 using data sourced from **Our World in Data**. The dataset is ingested into **Microsoft SQL Server (MSSQL)**, transformed through **staging tables and normalization**, and visualized using **Power BI**.
